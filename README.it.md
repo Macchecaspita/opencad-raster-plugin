@@ -2,6 +2,15 @@
 
 [English](README.md) · **Italiano**
 
+> [!IMPORTANT]
+> **Lo sviluppo continua in [BeeBeeSix/OCS_Plugin_RasterTools](https://github.com/BeeBeeSix/OCS_Plugin_RasterTools).**
+> Raster Tools ora è curato da Brian (BeeBeeSix), che ha aggiunto le immagini
+> georeferenziate (world file, GeoTIFF), l'inserimento di un'intera cartella e
+> le mappe di sfondo online, mantenendo la lingua italiana. Il **Plugin Manager**
+> di Open CAD Studio installa già Raster Tools dal suo repository: nuove versioni,
+> segnalazioni e idee vanno lì. Questo repository resta com'è, fino alla
+> versione 0.8.0. Grazie di cuore a Brian!
+
 > **Progetto amatoriale, realizzato solo per divertimento.** Non è pensato per un uso
 > professionale e viene fornito senza alcuna garanzia (vedi la licenza GPL-3.0):
 > prima di usarlo su lavori reali, fai una copia dei tuoi disegni.
